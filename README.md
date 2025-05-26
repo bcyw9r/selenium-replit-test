@@ -23,9 +23,13 @@ Captures screenshots at key points during the test
 **Technologies Used**
 
 Python 3
+
 Selenium WebDriver
+
 ChromeDriver
+
 XPath selectors
+
 JavaScript execution in Selenium
 
 **Folder Structure**
