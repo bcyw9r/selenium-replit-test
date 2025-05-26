@@ -64,7 +64,9 @@ python test_replit_login.py
 **Notes**
 
 The test uses intentionally incorrect credentials to simulate login failure, in case of login failure, it will show "invalid credentials" take screenshoot and redirect towards Continue with google.
+
 Incase of valid credentials, it shows "Your captcha token is invalid. Please refresh the page and try again", and takes screenshoot.
+
 Screenshots are saved locally to verify the flow and outcomes.
 
 
