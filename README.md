@@ -25,9 +25,13 @@ JavaScript execution in Selenium
 **Folder Structure**
 
 project_folder/
+
 ├── login_page.py - Page Object class
+
 ├── test_replit_login.py - Main test script
+
 ├── valid_login_attempt.png - Screenshot after login attempt
+
 ├──invalid_login_attempt.png - Screenshot after login attempt
 
 **How to Run**
