@@ -71,10 +71,12 @@ Screenshots are saved locally to verify the flow and outcomes.
 **Screenshots**
 
 valid_login_attempt.png: Captured after submitting valid login credentials
+
 invalid_login_attempt.png: Captured after submitting invalid login credentials
 
 
 **Author**
 
 Husnain Ali
+
 Eötvös Loránd University (ELTE), Hungary
