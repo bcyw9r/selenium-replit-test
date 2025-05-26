@@ -1,7 +1,7 @@
 **Selenium Automation Test – Replit Login and Google Redirect**
 
 This project automates the login process on Replit.com using Selenium WebDriver and the Page Object Model in Python.
-The script attempts to log in using intentionally invalid credentials. If the login fails, it detects the error and automatically clicks the "Continue with Google" button. This approach demonstrates form interaction, error detection, conditional flows, and element handling with XPath and JavaScript execution.
+The script attempts to log in using intentionally on both valid and invalid credentials. If the login fails, it detects the error and automatically clicks the "Continue with Google" button. This approach demonstrates form interaction, error detection, conditional flows, and element handling with XPath and JavaScript execution.
 
 **Features**
 
