@@ -6,11 +6,17 @@ The script attempts to log in using intentionally on both valid and invalid cred
 **Features**
 
 Organized using the Page Object Pattern
+
 Automates form fill and button clicks on the Replit login page
+
 Uses XPath selectors for precision
+
 Login if valid credentials
+
 Detects login error messages
+
 Clicks the "Continue with Google" button upon failed login
+
 Captures screenshots at key points during the test
 
 
