@@ -3,6 +3,7 @@
 This project automates the login process on Replit.com using Selenium WebDriver and the Page Object Model in Python.
 The script attempts to log in using intentionally on both valid and invalid credentials. If the login fails, it detects the error and automatically clicks the "Continue with Google" button. This approach demonstrates form interaction, error detection, conditional flows, and element handling with XPath and JavaScript execution.
 
+
 **Features**
 
 Organized using the Page Object Pattern
@@ -18,6 +19,7 @@ Detects login error messages
 Clicks the "Continue with Google" button upon failed login
 
 Captures screenshots at key points during the test
+
 
 
 **Technologies Used**
@@ -44,6 +46,7 @@ project_folder/
 
 ├──invalid_login_attempt.png - Screenshot after login attempt
 
+
 **How to Run**
 
 Install Selenium:
@@ -52,9 +55,11 @@ Download ChromeDriver:
 https://chromedriver.chromium.org/downloads
 Ensure the version matches your installed Chrome browser.
 
+
 **Run the script:**
 
 python test_replit_login.py
+
 
 **Notes**
 
@@ -62,10 +67,12 @@ The test uses intentionally incorrect credentials to simulate login failure, in 
 Incase of valid credentials, it shows "Your captcha token is invalid. Please refresh the page and try again", and takes screenshoot.
 Screenshots are saved locally to verify the flow and outcomes.
 
+
 **Screenshots**
 
 valid_login_attempt.png: Captured after submitting valid login credentials
 invalid_login_attempt.png: Captured after submitting invalid login credentials
+
 
 **Author**
 
